@@ -1,15 +1,68 @@
-# 💫 About Me:
- Hey there! I'm Atharva Gour<br> 💻Software Developer |📋 UI/UX Designer | 📷Photographer |📱 iOS Developer | ML Enthusiast<br><br>Currently working on:<br><br>KAD Job Scout – An AI-powered job search platform built with Swift, Supabase, and ML.<br>A Diabetes Diagnosis System that analyzes medical reports using AI.<br>Exploring ML model integration in Swift for AI-powered apps.<br>💡 What I love in coding & what I do:<br><br>Building iOS apps with Swift & SwiftUI.<br>Exploring Machine Learning (ML), NLP, and AI-powered applications.<br>Creating intuitive UX/UI designs to enhance user experience.<br>Working on image processing & photography-based ML projects.<br>🎯 Fun Fact:<br>I can spend hours tweaking UI elements until they look pixel-perfect! 😄 Also, I love photography 📸 and designing social media posters.<br><br>🤔 Ask me about:<br><br>iOS App Development 📱<br>Swift & SwiftUI 🔥<br>Machine Learning & AI 🤖<br>UX/UI Design 🎨<br>Python for ML 🐍<br>📫 Let's Connect!<br><br>LinkedIn: linkedin.com/in/atharva-gour<br>GitHub: github.com/atharva-gour<br>
+# 🚀 Atharva Gour
 
+💻 **Software Developer** | 🎨 **UI/UX Designer** | 🤖 **ML Enthusiast** | 📷 **Photographer** | 📱 **iOS Developer**  
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvagour07@icloud.com) 
+### 👋 Hey there!  
+I'm **Atharva Gour**, a passionate software engineer who loves building **iOS applications, AI-powered solutions, and intuitive UI/UX designs**. My expertise lies in **Swift, Python, ML, and designing stunning interfaces** that enhance user experience.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atharva708&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atharva708&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🔥 What I’m Currently Working On  
+🚀 **[KAD Job Scout](#)** – AI-powered job search platform using **Swift, Supabase, and ML**.  
+🩺 **Diabetes Diagnosis System** – Analyzing **medical reports** using AI.  
+📱 **Exploring ML in Swift** – Merging **machine learning** with iOS apps.  
 
+---
+
+## 🎯 What I Love  
+✔ **iOS Development** – Crafting feature-rich iOS apps using **Swift & SwiftUI**.  
+✔ **Machine Learning & AI** – Implementing **ML, NLP & deep learning** models.  
+✔ **UI/UX Design** – Designing **pixel-perfect** interfaces & intuitive experiences.  
+✔ **Image Processing & Photography** – Enhancing visuals with AI-powered solutions.  
+
+---
+
+## 🛠️ Tech Stack  
+### 🚀 Programming  
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+### 💡 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+
+### 🔥 Databases & Backend  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🎨 UI/UX Design  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Atharva708&theme=radical&hide_border=true&show_icons=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva708&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&theme=radical&hide_border=true&layout=compact" width="49%"/>
+</p>
+
+---
+
+## 📫 Let’s Connect!  
+🔗 [**LinkedIn**](https://linkedin.com/in/atharva-gour)  
+💻 [**GitHub**](https://github.com/Atharva708)  
+📧 [**Email**](mailto:atharvagour07@icloud.com)  
+
+---
+
+🔥 **Let’s build something amazing together!** 🚀  
