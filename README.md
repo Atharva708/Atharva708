@@ -1,6 +1,6 @@
 # 🚀 Atharva Gour
 
-💻 **Software Developer** | 🎨 **UI/UX Designer** | 🤖 **ML Enthusiast** | 📷 **Photographer** | 📱 **iOS Developer**  
+💻 **Software Developer** | 🎨 **UI/UX Designer** | 🤖 **ML Enthusiast** | 📱 **iOS Developer**  
 
 ### 👋 Hey there!  
 I'm **Atharva Gour**, a passionate software engineer who loves building **iOS applications, AI-powered solutions, and intuitive UI/UX designs**. My expertise lies in **Swift, Python, ML, and designing stunning interfaces** that enhance user experience.
@@ -65,4 +65,4 @@ I'm **Atharva Gour**, a passionate software engineer who loves building **iOS ap
 
 ---
 
-🔥 **Let’s build something amazing together!** 🚀  
+🔥 **Let’s build something amazing!** 🚀  
