@@ -9,7 +9,7 @@ I'm **Atharva Gour**, a passionate software engineer who loves building **iOS ap
 
 ## 🔥 What I’m Currently Working On  
 🚀 **[KAD Job Scout](#)** – AI-powered job search platform using **Swift, Supabase, and ML**.  
-🩺 **Diabetes Diagnosis System** – Analyzing **medical reports** using AI.  
+🩺 **Reflecta** – AI powered Mindfullness and journaling App for deep analysis into your life and helps you understand youself more.  
 📱 **Exploring ML in Swift** – Merging **machine learning** with iOS apps.  
 
 ---
