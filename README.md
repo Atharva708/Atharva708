@@ -18,7 +18,7 @@ I'm **Atharva Gour**, a passionate software engineer who loves building **iOS ap
 ✔ **iOS Development** – Crafting feature-rich iOS apps using **Swift & SwiftUI**.  
 ✔ **Machine Learning & AI** – Implementing **ML, NLP & deep learning** models.  
 ✔ **UI/UX Design** – Designing **pixel-perfect** interfaces & intuitive experiences.  
-✔ **Image Processing & Photography** – Enhancing visuals with AI-powered solutions.  
+✔ **Image Processing ** – Enhancing visuals with AI-powered solutions.  
 
 ---
 
