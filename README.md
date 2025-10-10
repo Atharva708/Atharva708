@@ -1,68 +1,49 @@
-# 🚀 Atharva Gour
+# 🚀 Hey there, I’m Atharva Gour!
 
-💻 **Software Developer** | 🎨 **UI/UX Designer** | 🤖 **ML Enthusiast** | 📱 **iOS Developer**  
+💻 **Software Developer | iOS Engineer | ML & AI Enthusiast | UI/UX Designer**
 
-### 👋 Hey there!  
-I'm **Atharva Gour**, a passionate software engineer who loves building **iOS applications, AI-powered solutions, and intuitive UI/UX designs**. My expertise lies in **Swift, Python, ML, and designing stunning interfaces** that enhance user experience.
-
----
-
-## 🔥 What I’m Currently Working On  
-🚀 **[KAD Job Scout](#)** – AI-powered job search platform using **Swift, Supabase, and ML**.  
-🩺 **Reflecta** – AI powered Mindfullness and journaling App for deep analysis into your life and helps you understand youself more.  
-📱 **Exploring ML in Swift** – Merging **machine learning** with iOS apps.  
+I’m a tech enthusiast who loves **building apps that people enjoy using**, **exploring AI/ML**, and **crafting intuitive interfaces**. When I’m not coding in Swift or Python, you’ll probably find me experimenting with **design, productivity hacks, or side projects** that make life smarter and more fun 😎.
 
 ---
 
-## 🎯 What I Love  
-✔ **iOS Development** – Crafting feature-rich iOS apps using **Swift & SwiftUI**.  
-✔ **Machine Learning & AI** – Implementing **ML, NLP & deep learning** models.  
-✔ **UI/UX Design** – Designing **pixel-perfect** interfaces & intuitive experiences.  
-✔ **Image Processing** – Enhancing visuals with AI-powered solutions.  
+## 🎯 What I’m Building
+
+- **DEFENDO-AI** – AI-powered security assistant, making safety smarter and faster.
+- **Amora** – An innovative app to enhance **personal connections and mindfulness**.
+- **Cupernova** – Creative project blending **technology and interactive experiences**.
+- **W.A.V.E** – Next-gen **audio and AI-driven app**, pushing boundaries in sound and interaction.
 
 ---
 
-## 🛠️ Tech Stack  
-### 🚀 Programming  
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+## 🖥️ My Coding Playground
 
-### 💡 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+Here's a snapshot of the languages I use most on GitHub:
 
-### 🔥 Databases & Backend  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🎨 UI/UX Design  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&layout=compact&theme=radical)
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 What I Love
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atharva708&theme=radical&hide_border=true&show_icons=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva708&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&theme=radical&hide_border=true&layout=compact" width="49%"/>
-</p>
-
----
-
-## 📫 Let’s Connect!  
-🔗 [**LinkedIn**](https://linkedin.com/in/atharva-gour)  
-💻 [**GitHub**](https://github.com/Atharva708)  
-📧 [**Email**](mailto:atharvagour07@icloud.com)  
+- **iOS Development** – Crafting apps that are **beautiful, smooth, and user-friendly**.
+- **AI & Machine Learning** – Turning **data into insights and smart features**.
+- **UI/UX Design** – Designing **intuitive and visually engaging experiences**.
+- **Problem Solving** – Making **complex ideas simple and fun**.
 
 ---
 
-🔥 **Let’s build something amazing!** 🚀  
+## 🌟 Fun Facts
+
+- I code with 💻 in one hand and 🎨 in the other.
+- I enjoy **mixing design with AI** to make apps that **look amazing and think smart**.
+- Always exploring **side projects** that push **tech, creativity, and innovation**.
+
+---
+
+## 📫 Let’s Connect
+
+[LinkedIn](https://linkedin.com/in/atharva-gour) | [GitHub](https://github.com/Atharva708) | [Email](mailto:atharvagour07@icloud.com)
+
+---
+
+💡 **Fun + Code + Creativity = My Formula** 🚀
