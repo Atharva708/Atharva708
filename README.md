@@ -1,3 +1,7 @@
+<table width="100%">
+<tr>
+<td>
+
 # 🚀 Hey there, I’m Atharva Gour!
 
 💻 **Software Developer | iOS Engineer | ML & AI Enthusiast | UI/UX Designer**
@@ -8,34 +12,36 @@ I’m a tech enthusiast who loves **building apps that people enjoy using**, **e
 
 ## 🎯 What I’m Building
 
-- **DEFENDO-AI** – AI-powered security assistant, making safety smarter and faster.
-- **Amora** – An innovative app to enhance **personal connections and mindfulness**.
-- **Cupernova** – Creative project blending **technology and interactive experiences**.
-- **W.A.V.E** – Next-gen **audio and AI-driven app**, pushing boundaries in sound and interaction.
+- **DEFENDO-AI** – AI-powered security assistant, making safety smarter and faster.  
+- **Amora** – An innovative app to enhance **personal connections and mindfulness**.  
+- **Cupernova** – Creative project blending **technology and interactive experiences**.  
+- **W.A.V.E** – Next-gen **audio and AI-driven app**, pushing boundaries in sound and interaction.  
 
 ---
 
 ## 🖥️ My Coding Playground
 
-Here's a snapshot of the languages I use most on GitHub:
+Here's a snapshot of my most-used languages on GitHub:
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva708&layout=compact&theme=radical&hide_border=false&langs_count=8" width="70%">
+</p>
 
 ---
 
 ## 🔥 What I Love
 
-- **iOS Development** – Crafting apps that are **beautiful, smooth, and user-friendly**.
-- **AI & Machine Learning** – Turning **data into insights and smart features**.
-- **UI/UX Design** – Designing **intuitive and visually engaging experiences**.
-- **Problem Solving** – Making **complex ideas simple and fun**.
+- **iOS Development** – Crafting apps that are **beautiful, smooth, and user-friendly**.  
+- **AI & Machine Learning** – Turning **data into insights and smart features**.  
+- **UI/UX Design** – Designing **intuitive and visually engaging experiences**.  
+- **Problem Solving** – Making **complex ideas simple and fun**.  
 
 ---
 
 ## 🌟 Fun Facts
 
-- I code with 💻 in one hand and 🎨 in the other.
-- I enjoy **mixing design with AI** to make apps that **look amazing and think smart**.
+- I code with 💻 in one hand and 🎨 in the other.  
+- I enjoy **mixing design with AI** to make apps that **look amazing and think smart**.  
 - Always exploring **side projects** that push **tech, creativity, and innovation**.
 
 ---
@@ -47,3 +53,7 @@ Here's a snapshot of the languages I use most on GitHub:
 ---
 
 💡 **Fun + Code + Creativity = My Formula** 🚀
+
+</td>
+</tr>
+</table>
