@@ -3,7 +3,6 @@
 #  Atharva Gour
 **Architecting Autonomous Intelligence & Spatial Interaction**
 
-[![Follow](https://img.shields.io/github/followers/Atharva708?label=Follow&style=for-the-badge&color=007AFF&logo=github)](https://github.com/Atharva708)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharva-gour)
 [![Email](https://img.shields.io/badge/Contact-iCloud-white?style=for-the-badge&logo=icloud&logoColor=black)](mailto:atharvagour07@icloud.com)
 
