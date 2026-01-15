@@ -53,7 +53,7 @@ let buildProfile = { (architect: String) in
         $0.code       = [.swift, .swiftUI, .python, .Kotlin]
         $0.ai         = [.agenticFlows, .langChain, .coreML, .llamaNative]
         $0.frameworks = [.swiftData, .healthKit, .mapKit, .avFoundation, .CreateML, .WidgetKit]
-        $0.uiux       = [.spatialComputing, .humanInterfaceGuidelines]
+        $0.uiux       = [.SpatialComputing, .HumanInterfaceGuidelines]
         $0.Backend    = [.Supabase, .Firebase]
     }
 }
